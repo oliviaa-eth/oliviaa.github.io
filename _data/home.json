@@ -1,6 +1,6 @@
 {
-  "title": "Hello! My name is Olivia Ash",
-  "image": "/static/img/fern-in-hand.jpeg",
+  "title": "Welcome! My name is Olivia Ash",
+  "image": "/static/img/round_icon.png",
   "subtitle": "This is my portfolio, where you can view my resume or catch up on my latest ideas!",
-  "image_alt": "Fern in hand"
+  "image_alt": ""
 }
