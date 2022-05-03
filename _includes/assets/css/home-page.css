@@ -57,10 +57,10 @@
   justify-content: center;
 }
 
-.hero__image {
-  margin-bottom: 0;
-  border-radius: var(--border-radius);
-  transition: filter 0.4s ease-out;
+/* .hero__image { */
+  /* margin-bottom: 0; */
+  /* border-radius: var(--border-radius); */
+  /* transition: filter 0.4s ease-out; */
 }
 
 .hero__title {
