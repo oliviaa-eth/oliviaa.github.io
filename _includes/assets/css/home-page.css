@@ -14,12 +14,12 @@
   display: none;
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 512px) {
   .home-page__bg-square {
     display: block;
     position: absolute;
     left: auto;
-    top: 0px;
+    top: 0;
     right: 0;
     bottom: auto;
     width: 100%;
