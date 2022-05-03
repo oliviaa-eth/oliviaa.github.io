@@ -28,7 +28,7 @@
     max-width: 15%;
     min-width: 300px;
     border-radius: var(--border-radius);
-    background-color: var(--color-bg-accent);
+    /* background-color: var(--color-bg-accent); */
     z-index: -1;
   }
 }
